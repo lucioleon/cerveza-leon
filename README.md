@@ -1,2 +1,2 @@
-# cerveza-leon
+# cerveza+leon
 Repositorio del probable proyecto
